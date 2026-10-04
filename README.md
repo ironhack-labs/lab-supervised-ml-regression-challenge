@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this exercise, you will be tasked with building a predictive model for insurance costs based on various features from a dataset. This exercise focuses on regression techniques in supervised machine learning. The goal is to achieve the highest R² score on the test data, so be prepared to explore different modeling approaches.
+In this exercise, you will be tasked with building a predictive model for insurance costs based on various features from a dataset. This exercise focuses on regression techniques in supervised machine learning. The goal is to achieve the highest R² score on the test data, so be prepared to explore different modeling approaches. It practises the Feature Engineering and Model Tuning lesson: a baseline, feature engineering, pipelines and grid search.
 
 ## Getting Started
 
@@ -27,4 +27,7 @@ You will find the dataset in the CSV file named `insurance.csv`. The target colu
 ## Resources
 
 - [Machine Learning Basics | Scikit-Learn Documentation](https://scikit-learn.org/stable/supervised_learning.html)
-- [Understanding R² Score | Towards Data Science](https://towardsdatascience.com/understanding-r-squared-in-regression-analysis-732d4e4b2042)
+- [Regression metrics | Scikit-Learn Documentation](https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
+- [Pipelines and ColumnTransformer | Scikit-Learn Documentation](https://scikit-learn.org/stable/modules/compose.html)
+- [GridSearchCV | Scikit-Learn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+- The **Feature Engineering and Model Tuning** lesson (Week 5, Day 1)
